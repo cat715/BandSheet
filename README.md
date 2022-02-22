@@ -1,2 +1,2 @@
-# BandSheet
-Save the band sheets
+# PandaMusic
+Lean music theory and chords
