@@ -1,6 +1,6 @@
 **/__pycache__
 temp.mid
-.vscode
+#.vscode
 browse memory.txt
 # Byte-compiled / optimized / DLL files
 *.py[co]

@@ -40,21 +40,33 @@ Standard_Note_Degree_Lowercase = {
 }
 
 Standard_Note_ScaleLevel = {
-    'C': 1,
+    'C': 1, #T
     'C#': 1,
     'D': 2,
     'D#': 2,
     'E': 3,
-    'F': 4,
+    'F': 4, #S
     'F#': 4,
-    'G': 5,
+    'G': 5, #D
     'G#': 5,
-    'A': 6,
+    'A': 6, #TSVI
     'A#': 6,
-    'B': 7,
+    'B': 7, #DVII
     'Bb': 7,
     'Eb': 3,
     'Ab': 6,
     'Db': 2,
     'Gb': 5
+}
+
+Standard_Chord_Type = {
+    'Major' : 1,
+    'Minor' : 2,
+    'Diminished' : 3,
+    'MajorSeventh' : 4,
+    'MinorSeventh' : 5,
+    'DominantSeventh' : 6,
+    'Suspended' : 7,
+    'Augmented' : 8,
+    'Extended' : 9
 }
